@@ -14,4 +14,5 @@ This repository contains a console based Game of life implementation in Java.
 # Sources read 
 
 http://hoyvinglavin.com/2010/12/10/the-game-of-life/
+
 https://natureofcode.com/book/chapter-7-cellular-automata/
