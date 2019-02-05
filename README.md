@@ -10,3 +10,8 @@ This repository contains a console based Game of life implementation in Java.
 3.	Change directory to where the folder is downloaded/cloned e.g. cd Downloads
 4.	Then navigate to src and type: javac GameOfLife.java
 5.	After type: java GameOfLife
+
+# Sources read 
+
+http://hoyvinglavin.com/2010/12/10/the-game-of-life/
+https://natureofcode.com/book/chapter-7-cellular-automata/
