@@ -1,0 +1,13 @@
+Assumption:
+
+My first assumption of the game is that it is played on an infinite two dimensional grid. 
+Every cell interacts with up to eight neighbours that are horizontally, vertically, or diagonally adjacent. 
+
+Death: If a state is 1, then in the next generation the state will be 0.  
+A cell dies due to loneliness (1 or fewer live neighbours) or overpopulation (4 or more cells alive).
+
+Birth: This goes from 0 to 1. Exactly 3 live neighbours that are adjacent to an empty cell will give birth to a new cell. 
+
+Stasis: In all other cases the state will remain the same. 
+
+Death and birth will happen simultaneously as the population goes through changes over time. 
